@@ -1,5 +1,6 @@
 Pastasallad:
-1. Koka Pasta
-2. Skär upp grönsaker
-3. Blanda
+1. Koka Pasta enligt anvisningarna
+2. Under tiden som pastan kokat, skär upp grönsaker
+3. Häll av pastavattnet, kyl ner pastan och blanda med grönsakerna
+4. Tillsätt kryddor och olja
 4. Ät
